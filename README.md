@@ -58,11 +58,21 @@ para isso criei um Repositório a parte, porém só executei um exercicio por en
 <h3><a href="https://github.com/laotsetung/Python_Pandas_Portfolio/tree/main/01-Netflix-Data_Analysis"> Analise dos dados do Netflix </a></h3>
 
 ## Mais ainda (Projetos Python com FLASK)
+Enquanto estudava Python encontrei esta biblioteca <b><i>FLASK</i></b>
+Fiz meu primeiro projeto ainda nesta ideia de "desenferrujar", é uma funcionalidade de carrinho de compras, em Python-Flask, com banco de dados com apenas uma tabela, produtos.
+<a href="https://github.com/laotsetung/99-Python-Flask-ShoppingCart"> AlphaCentauriShop </a>
+<hr>
+Estou realizando também um segundo projeto com Flask, este é uma Biblioteca Pessoal, para cadastrar os livros que tenho e gerar pequenos relatórios,
+porém esta ainda não fiz o PUSH aqui no github.
 (TODO)....
 
 # Por fim... JAVA
 Realizei neste ano de 2023, um Curso de 6 meses da Oracle, o #ORACLEONE, em parceria com a Alura, e consegui dar meus primeiros passos na linguagem JAVA
-(TODO)...
+<a href="https://github.com/laotsetung/Java-Portfolio"> Meus projetos em JAVA </a>
+Por enquanto tenho dois projetos no portfólio JAVA, que foram Desafios concluidos deste curso da OracleOne
+Com um terceiro projeto que esta em outro repositório.
+Esta API-REST de um Forum de mensagens
+<a href="https://github.com/laotsetung/Forum_API_REST-JAVA"> JAVA FORUM API-REST </a>
 
 
 <!--
