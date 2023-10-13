@@ -1,11 +1,7 @@
-# Olá Mundo! 👋
-Bem vindo ao meu portfólio de programação BackEnd.
-
 # Apresentação.
-Olá, meu nome é Flávio, mas todos me conhecem e me chamam pelo meu sobrenome, Lao.
-Aos 14 anos de idade, em 2001, comecei a trabalhar em uma lan-house na cidade de Piracicaba, onde aprendi a fazer manutenção de computadores (software e hardware) e comecei a estudar programação. No ano de 2006, trabalhei como Web Designer e, nos anos seguintes (07-08), como programador utilizando PHP e SQL. Na década de 2010, porém, me afastei da área de TI, pois ingressei no curso de Filosofia na UFSCar. Nesse período adquiri uma leitura e escrita academica, bem como o pensamento crítico que a Filosofia proporciona. Contudo, não terminei o curso e agora busco uma oportunidade para retornar a ser programador.
-Para realizar tal objetivo tenho desenvolvido projetos pessoais em JavaScript, Python e JAVA, e todos se encontram aqui no meu portfólio do GitHub.
-
+Olá, meu nome é Flávio, mas todos me conhecem e me chamam pelo meu sobrenome, Lao. E este é meu Portfolio de programador BackEnd
+Aos 14 anos de idade, em 2001, comecei a trabalhar em uma lan-house na cidade de Piracicaba, onde aprendi a fazer manutenção de computadores (software e hardware).Em 200, trabalhei como Web Designer e, nos anos seguintes (07-08), como programador utilizando PHP e SQL. Na década de 2010, porém, me afastei da área de TI pois ingressei no curso de Filosofia na UFSCar. Nesse período adquiri uma leitura e escrita academica, bem como o pensamento crítico que a Filosofia proporciona. Contudo, não terminei o curso e agora busco uma oportunidade para retornar a ser programador.
+Para realizar tal objetivo tenho desenvolvido projetos pessoais em JavaScript, Python e JAVA, e todos se encontram aqui no meu portfólio.
 
 # Atalhos para as áreas do meu Portfolio.
 Para tirar a "ferrugem" de programar, comecei a desenvolver pequenos projetos em JavaScript, nas minhas áreas de interesse.
@@ -33,7 +29,7 @@ E este exercicio mais avançado, chamado Wave Collapse Function, ou Função de 
   <hr>
 
 # Continuando no desenvolvimento...
-Porém JavaScript não é o meu foco, já que sou programador BackEnd, e como disse, só estava tirando a Ferrugem.
+Porém JavaScript não é o meu foco, já que sou programador BackEnd, e como disse, só estava tirando a "ferrugem".
 Como no passado programava em PHP, ASP, JS, para me atualizar venho aprendendo Python e Java.
 
 <a href="https://github.com/laotsetung/Python-Portfolio"> Portfolio de Python </a>
@@ -58,7 +54,6 @@ para isso criei um Repositório a parte, porém só executei um exercicio por en
 <h3><a href="https://github.com/laotsetung/Python_Pandas_Portfolio/tree/main/01-Netflix-Data_Analysis"> Analise dos dados do Netflix </a></h3>
 
 ## Mais ainda (Projetos Python com FLASK)
-Enquanto estudava Python encontrei esta biblioteca <b><i>FLASK</i></b>
 Fiz meu primeiro projeto ainda nesta ideia de "desenferrujar", é uma funcionalidade de carrinho de compras, em Python-Flask, com banco de dados com apenas uma tabela, produtos.<br>
 <a href="https://github.com/laotsetung/99-Python-Flask-ShoppingCart"> AlphaCentauriShop </a>
 <br>
