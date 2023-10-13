@@ -14,20 +14,19 @@ Como por exemplo:
   <h2> <a href="https://laotsetung.github.io/JavaScript-Portfolio/05-GameOfLife/GameOfLife.html"> Projeto 5 : Conway Game Of Life (Acessar Aplicação) </a></h2>
   Comum Conway Game Of Life (regras : https://pt.wikipedia.org/wiki/Jogo_da_vida)<br>
     <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/05-GameOfLife" target="_blank"> Repositório de JS - pasta - Game Of Life (código) </a>
-<hr>
 Destaco também esses outros 2 projetos
 
 Este exercicio de uma entrevista do Google:
   <h2><a href="https://laotsetung.github.io/JavaScript-Portfolio/07-googleInterview/googleInterview.html" target="_blank">Projeto 7: Remova as Ilhas (Acessar Aplicação)</h2>
   O objetivo é pegar uma matrix 2D com números 0 e 1, e excluir dela todos os números 1 que não estão conectados à borda da matrix.<br>
     <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/07-googleInterview" target="_blank"> Projeto 7 : Remova as Ilhas (Google Interview) - (Acessar código)</a>
-  <hr>
 E este exercicio mais avançado, chamado Wave Collapse Function, ou Função de Colapso de Onda.
     <h2><a href="https://laotsetung.github.io/JavaScript-Portfolio/08-WaveCollapseFunction/08-WaveCollapseFunction.html" target="_blank">Projeto 8: Wave Collapse Function (Acessar Aplicação)</h2>
   Função de Colapso de Onda, usada para criar mapas 2D GENERATIVOS<br>
     <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/08-WaveCollapseFunction" target="_blank"> Projeto 8 : Wave Collapse Function - (Acessar código)</a>
+      
   <hr>
-
+      
 # Continuando no desenvolvimento...
 Porém JavaScript não é o meu foco, já que sou programador BackEnd, e como disse, só estava tirando a "ferrugem".
 Como no passado programava em PHP, ASP, JS, para me atualizar venho aprendendo Python e Java.
