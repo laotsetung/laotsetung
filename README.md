@@ -54,11 +54,13 @@ para isso criei um Repositório a parte, porém só executei um exercicio por en
 
 ## Mais ainda (Projetos Python com FLASK)
 Fiz meu primeiro projeto ainda nesta ideia de "desenferrujar", é uma funcionalidade de carrinho de compras, em Python-Flask, com banco de dados com apenas uma tabela, produtos.<br>
-<a href="https://github.com/laotsetung/99-Python-Flask-ShoppingCart"> AlphaCentauriShop </a>
+<h2><a href="https://github.com/laotsetung/99-Python-Flask-ShoppingCart"> AlphaCentauriShop </a></h2>
 <br>
 Estou realizando também um segundo projeto com Flask, este é uma Biblioteca Pessoal, para cadastrar os livros que tenho e gerar pequenos relatórios,
 porém esta ainda não fiz o PUSH aqui no github.
 (TODO)....
+<h2> <a href='https://github.com/laotsetung/API_REST-JWT_AUTH-Flask'> API REST JWT AUTH - FLASK </a></h2>
+Aplicação de Autenticação JWT de uma API REST, desenvolvida no Framework FLASK!
 
 # Por fim... JAVA
 Realizei neste ano de 2023, um Curso de 6 meses da Oracle, o #ORACLEONE, em parceria com a Alura, e consegui dar meus primeiros passos na linguagem JAVA.<br>
