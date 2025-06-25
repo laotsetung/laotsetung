@@ -24,8 +24,6 @@ Este exercicio de uma entrevista do Google:
   <h2><a href="https://laotsetung.github.io/JavaScript-Portfolio/07-googleInterview/googleInterview.html" target="_blank">Projeto 7: Remova as Ilhas (Acessar Aplicação)</h2>
   O objetivo é pegar uma matrix 2D com números 0 e 1, e excluir dela todos os números 1 que não estão conectados à borda da matrix.<br>
     <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/07-googleInterview" target="_blank"> Projeto 7 : Remova as Ilhas (Google Interview) - (Acessar código)</a>
-E este exercicio mais avançado, chamado Wave Collapse Function, ou Função de Colapso de Onda.
-
   <hr>
       
 # Continuando no desenvolvimento...
