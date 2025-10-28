@@ -1,6 +1,6 @@
 # Apresentação.
 Olá, eu sou o Lao. E este é meu Portfolio de programador BackEnd
-Estou em transição de carreira, tenho uma base sólida de porgramação, e sou estudante do curso de Bacharel em Tecnologia da Informação e Ciência de Dados, pela UNIVESP.
+Estou em transição de carreira, tenho uma base sólida de programação, sou estudante do curso de Bacharel em Tecnologia da Informação e Ciência de Dados, pela UNIVESP.
 Para realizar tal objetivo tenho desenvolvido projetos pessoais em JavaScript, Python e JAVA, e todos se encontram aqui no meu portfólio.
 
 # Atalhos para as áreas do meu Portfolio.
