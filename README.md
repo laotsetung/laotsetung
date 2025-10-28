@@ -6,8 +6,8 @@ Para realizar tal objetivo tenho desenvolvido projetos pessoais em JavaScript, P
 # Atalhos para as áreas do meu Portfolio.
 <br>
 <a href="https://laotsetung.github.io/JavaScript-Portfolio/"> LAO Perfil </a>
-
-    <h2><a href="https://laotsetung.github.io/JavaScript-Portfolio/08-WaveCollapseFunction/08-WaveCollapseFunction.html" target="_blank">Projeto 8: Wave Collapse Function (Acessar Aplicação)</h2>
+<br>
+    <h2> <a href="https://laotsetung.github.io/JavaScript-Portfolio/08-WaveCollapseFunction/08-WaveCollapseFunction.html" target="_blank">Projeto 8: Wave Collapse Function (Acessar Aplicação)</h2>
   Função de Colapso de Onda, usada para criar mapas 2D GENERATIVOS<br>
     <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/08-WaveCollapseFunction" target="_blank"> Projeto 8 : Wave Collapse Function - (Acessar código)</a>
       
