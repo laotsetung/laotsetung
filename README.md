@@ -1,16 +1,12 @@
 # Apresentação.
-Olá, meu nome é Flávio, mas todos me conhecem e me chamam pelo meu sobrenome, Lao. E este é meu Portfolio de programador BackEnd
-Aos 14 anos de idade, em 2001, comecei a trabalhar em uma lan-house na cidade de Piracicaba, onde aprendi a fazer manutenção de computadores (software e hardware).Em 200, trabalhei como Web Designer e, nos anos seguintes (07-08), como programador utilizando PHP e SQL. Na década de 2010, porém, me afastei da área de TI pois ingressei no curso de Filosofia na UFSCar. Nesse período adquiri uma leitura e escrita academica, bem como o pensamento crítico que a Filosofia proporciona. Contudo, não terminei o curso e agora busco uma oportunidade para retornar a ser programador.
+Olá, eu sou o Lao. E este é meu Portfolio de programador BackEnd
+Estou em transição de carreira, tenho uma base sólida de porgramação, e sou estudante do curso de Bacharel em Tecnologia da Informação e Ciência de Dados, pela UNIVESP.
 Para realizar tal objetivo tenho desenvolvido projetos pessoais em JavaScript, Python e JAVA, e todos se encontram aqui no meu portfólio.
 
 # Atalhos para as áreas do meu Portfolio.
-Para tirar a "ferrugem" de programar, comecei a desenvolver pequenos projetos em JavaScript, nas minhas áreas de interesse.
-Tenho atualizado esta página pessoal aqui no GitHub Pages, com esses projetos mais simples de JavaScript, que podem ser executados no navagador.
 <br>
 <a href="https://laotsetung.github.io/JavaScript-Portfolio/"> LAO Perfil </a>
 
-Meus interesses fora da programção são coisas como Música, Poker, Jogos.
-Como por exemplo:
     <h2><a href="https://laotsetung.github.io/JavaScript-Portfolio/08-WaveCollapseFunction/08-WaveCollapseFunction.html" target="_blank">Projeto 8: Wave Collapse Function (Acessar Aplicação)</h2>
   Função de Colapso de Onda, usada para criar mapas 2D GENERATIVOS<br>
     <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/08-WaveCollapseFunction" target="_blank"> Projeto 8 : Wave Collapse Function - (Acessar código)</a>
@@ -47,7 +43,7 @@ Como no passado programava em PHP, ASP, JS, para me atualizar venho aprendendo P
 </ul>
 
 ## e também...
-Tenho interesse na parte de Ciencia de Dados
+Ciencia de Dados
 para isso criei um Repositório a parte, porém só executei um exercicio por enquanto.
 <h3><a href="https://github.com/laotsetung/Python_Pandas_Portfolio/tree/main/01-Netflix-Data_Analysis"> Analise dos dados do Netflix </a></h3>
 
